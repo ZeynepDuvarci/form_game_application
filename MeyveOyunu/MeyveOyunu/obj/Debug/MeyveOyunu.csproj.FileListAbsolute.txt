@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\bin\Debug\MeyveOyunu.exe.config
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\bin\Debug\MeyveOyunu.exe
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\bin\Debug\MeyveOyunu.pdb
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.Form1.resources
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.exe
+C:\Users\LENOVO\source\repos\MeyveOyunu\MeyveOyunu\obj\Debug\MeyveOyunu.pdb
